@@ -4,8 +4,8 @@
 
 <a id="item-one"></a>
 ### main.go
-Description for the code of `main.go`
-    
+
+Description for the code of `main.go`    
 ```go
     ackage main
 
@@ -15,51 +15,11 @@ Description for the code of `main.go`
 	var age int8 = 24
 	fmt.Println(age)
     }
-
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
-text
 ```
 ---
 <a id="item-two"></a>
 ### cycles.go
+
 Description for `cycles.go` file
 ``` go
     	nums := []int{1, 2, 3, 4, 5}

@@ -1,7 +1,8 @@
 ## Content
-1.[main.go](#main.go)<br>
-2.[cycles.go](#cycles.go)
+1.[main.go](#item-one)<br>
+2.[cycles.go](#item-two)
 
+<a id="item-one"></a>
 ### main.go
 Description for the code of `main.go`
     
@@ -57,6 +58,7 @@ text
 text
 ```
 ---
+<a id="item-two"></a>
 ### cycles.go
 Description for `cycles.go` file
 ``` go
